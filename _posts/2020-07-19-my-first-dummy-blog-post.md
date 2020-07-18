@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My first blog post on GitHub!"
+date: 2020-07-19
 ---
 
 # My first blog post
