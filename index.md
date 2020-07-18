@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is a test page from GitHub Learning Lab
 
-I'm glad you are here. I plan to talk about ...
+I am learning how to create a GitHub page
